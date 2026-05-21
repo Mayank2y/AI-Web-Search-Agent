@@ -1,10 +1,3 @@
-# LLM
-# TOOL
-# Agent
-# Memory
-# Streaming
-# Web interface
-
 from dotenv import load_dotenv
 load_dotenv()
 
